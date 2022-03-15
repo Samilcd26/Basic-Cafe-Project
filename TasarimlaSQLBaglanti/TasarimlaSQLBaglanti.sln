@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TasarimlaSQLBaglanti", "TasarimlaSQLBaglanti\TasarimlaSQLBaglanti.vbproj", "{5E80D984-7B4A-41CE-98CF-CD92854CB55B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E80D984-7B4A-41CE-98CF-CD92854CB55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E80D984-7B4A-41CE-98CF-CD92854CB55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E80D984-7B4A-41CE-98CF-CD92854CB55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E80D984-7B4A-41CE-98CF-CD92854CB55B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D44FC650-05FB-4FD7-8BE0-05A202EB05DC}
+	EndGlobalSection
+EndGlobal
